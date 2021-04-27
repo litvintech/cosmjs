@@ -53,6 +53,7 @@
     "xstream": "^11.14.0"
   },
   "devDependencies": {
-    "@cosmjs/utils": "^0.25.0-alpha.3"
+    "@cosmjs/utils": "^0.25.0-alpha.3",
+    "eslint": "^7.5"
   }
 }
