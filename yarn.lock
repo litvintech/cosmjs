@@ -4005,7 +4005,6 @@ __metadata:
     prettier: ^2.0.5
     process: ^0.11.10
     ses: ^0.11.0
-    shx: ^0.3.2
     source-map-support: ^0.5.19
     stream-browserify: ^3.0.0
     ts-proto: ^1.79.1
@@ -4701,7 +4700,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"es6-object-assign@npm:^1.0.3, es6-object-assign@npm:^1.1.0":
+"es6-object-assign@npm:^1.1.0":
   version: 1.1.0
   resolution: "es6-object-assign@npm:1.1.0"
   checksum: 18f01190b46b15a5fd6275dfc37c1c10bb331be4e392362785f63a141aa33edd0d8fbd2d5150c4b0a524aa14b8c4f825a559274cbc765bce59331e015923b4d8
@@ -9597,19 +9596,6 @@ resolve@^1.9.0:
   languageName: node
   linkType: hard
 
-"shelljs@npm:^0.8.1":
-  version: 0.8.3
-  resolution: "shelljs@npm:0.8.3"
-  dependencies:
-    glob: ^7.0.0
-    interpret: ^1.0.0
-    rechoir: ^0.6.2
-  bin:
-    shjs: ./bin/shjs
-  checksum: 8cad18280d43c03280404ccc5d4074c951db3b4baa5ba1efcf8cf064ba38d84e5ffc26ed10f7c4407fd4db551e37f37b27ed9118903f59606bce1cba07860b95
-  languageName: node
-  linkType: hard
-
 "shelljs@npm:^0.8.3, shelljs@npm:^0.8.4":
   version: 0.8.4
   resolution: "shelljs@npm:0.8.4"
@@ -9630,19 +9616,6 @@ resolve@^1.9.0:
     onigasm: ^2.2.5
     vscode-textmate: ^5.2.0
   checksum: fce8084727491c496187abe5b8f831dbecdada11ebcc2861335a31fb7eb3d3ebceaf50aec2f2d855f76af626ddb66dabd860536e334b3cb9feff7e79d61ccde0
-  languageName: node
-  linkType: hard
-
-"shx@npm:^0.3.2":
-  version: 0.3.2
-  resolution: "shx@npm:0.3.2"
-  dependencies:
-    es6-object-assign: ^1.0.3
-    minimist: ^1.2.0
-    shelljs: ^0.8.1
-  bin:
-    shx: lib/cli.js
-  checksum: 75224dd939476d1d318e4b216095f794743bb982b677578c06e875e973241022077cf87823db1370577c3993b3a10c7cb771405016d575743810d7a09b0f228f
   languageName: node
   linkType: hard
 
