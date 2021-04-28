@@ -325,6 +325,7 @@ __metadata:
     nyc: ^15.1.0
     prettier: ^2.0.5
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -381,6 +382,7 @@ __metadata:
     prettier: ^2.0.5
     readonly-date: ^1.0.0
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -408,6 +410,7 @@ __metadata:
     protobufjs: ~6.10.2
     readonly-date: ^1.0.0
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -420,6 +423,7 @@ __metadata:
     eslint: ^7.5
     prettier: ^2.0.5
     typedoc: ^0.20
+    typescript: ~4.0
   languageName: unknown
   linkType: soft
 
@@ -450,6 +454,7 @@ __metadata:
     ripemd160: ^2.0.2
     sha.js: ^2.4.11
     typedoc: ^0.20
+    typescript: ~4.0
     unorm: ^1.5.0
     webpack: ^5.32.0
   languageName: unknown
@@ -468,6 +473,7 @@ __metadata:
     prettier: ^2.0.5
     readonly-date: ^1.0.0
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -482,6 +488,7 @@ __metadata:
     nyc: ^15.1.0
     prettier: ^2.0.5
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -506,6 +513,7 @@ __metadata:
     koa-bodyparser: ^4.2.1
     nyc: ^15.1.0
     prettier: ^2.0.5
+    typescript: ~4.0
   bin:
     cosmos-faucet: bin/cosmos-faucet
   languageName: unknown
@@ -521,6 +529,7 @@ __metadata:
     nyc: ^15.1.0
     prettier: ^2.0.5
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
     xstream: ^11.14.0
   languageName: unknown
@@ -543,6 +552,7 @@ __metadata:
     prettier: ^2.0.5
     readonly-date: ^1.0.0
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -567,6 +577,7 @@ __metadata:
     prettier: ^2.0.5
     semver: ^7.3.2
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -582,6 +593,7 @@ __metadata:
     nyc: ^15.1.0
     prettier: ^2.0.5
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -600,6 +612,7 @@ __metadata:
     prettier: ^2.0.5
     protobufjs: ~6.10.2
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -616,6 +629,7 @@ __metadata:
     nyc: ^15.1.0
     prettier: ^2.0.5
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
     ws: ^6.2.0
     xstream: ^11.14.0
@@ -641,6 +655,7 @@ __metadata:
     prettier: ^2.0.5
     protobufjs: ~6.10.2
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
@@ -654,6 +669,7 @@ __metadata:
     nyc: ^15.1.0
     prettier: ^2.0.5
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
     xstream: ^11.14.0
   languageName: unknown
@@ -677,6 +693,7 @@ __metadata:
     prettier: ^2.0.5
     readonly-date: ^1.0.0
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
     xstream: ^11.14.0
   languageName: unknown
@@ -691,6 +708,7 @@ __metadata:
     nyc: ^15.1.0
     prettier: ^2.0.5
     typedoc: ^0.20
+    typescript: ~4.0
     webpack: ^5.32.0
   languageName: unknown
   linkType: soft
