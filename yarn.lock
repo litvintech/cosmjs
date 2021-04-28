@@ -681,7 +681,9 @@ __metadata:
   resolution: "@cosmjs/proto-signing@workspace:packages/proto-signing"
   dependencies:
     "@cosmjs/amino": ^0.25.0-alpha.3
+    "@cosmjs/crypto": ^0.25.0-alpha.3
     "@cosmjs/encoding": ^0.25.0-alpha.3
+    "@cosmjs/math": ^0.25.0-alpha.3
     "@cosmjs/utils": ^0.25.0-alpha.3
     eslint: ^7.5
     karma: ^6.1.1
